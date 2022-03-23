@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minuk2468
+- 👋 Hi, I’m Hora
 - 👀 I’m interested in video game
 - 🌱 I’m currently learning cobol
 - 💞️ I’m looking to collaborate on ...
