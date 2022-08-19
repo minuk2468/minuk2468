@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hora
 - 👀 I’m interested in video game
-- 🌱 I’m currently learning cobol
+- 🌱 I’m currently learning BASIC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email to minuk2468@hanmail.net
 
